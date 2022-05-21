@@ -177,8 +177,9 @@ body {
 
 @media (min-width: 700px) {
     .component-card {
-        max-width: 38rem;
+        max-width: 45rem !important;
      }
+
      .component-card_text--container__heading {
         font-size: 2.75rem;
     }
