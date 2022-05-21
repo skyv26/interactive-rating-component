@@ -10,11 +10,9 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -40,10 +38,9 @@ Users should be able to:
 <br />
 <br />
 <div align="center">
-    <strong style="border: 4px solid; padding: 5px;">Design Vs My Output</strong>
+    <strong style="border: 4px solid; padding: 5px;">Desktop Design Output</strong>
     <br />
     <br />
-    <a href="./design/desktop-design.jpg" target="_blank"><img src="./design/desktop-design.jpg" width="45%" height="60%" align="top"/></a>
     <a href="./screenshots/laptop_1440.png" target="_blank"><img src="./screenshots/laptop_1440.png" width="45%" height="60%" align="top"/></a>
 </div>
 
