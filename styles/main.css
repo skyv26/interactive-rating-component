@@ -177,15 +177,6 @@ body {
 
 @media (min-width: 700px) {
     .component-card {
-        width: 44rem;
+        max-width: 38rem;
      }
-
-     .component-card_text--container__heading {
-        font-size: 3rem;
-    }
-    
-    .component-card_text--container__desc {
-        font-size: 1.75rem;
-        line-height: 1.6;
-    }
 }
